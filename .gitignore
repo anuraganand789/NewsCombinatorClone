@@ -39,6 +39,10 @@ bower_components
 build/Release
 
 # Dependency directories
+ycombinator-clone/node_modules/
+ycombinator-clone/jspm_packages/
+
+# Dependency directories
 node_modules/
 jspm_packages/
 

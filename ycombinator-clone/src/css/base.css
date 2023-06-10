@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding : 0;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+#app {
+    border : 1px solid black;
+    width: 80vmax;
+    margin: 10vh 10vw;
+    text-align: left;
+    background-color: #03d7fc;
+}
